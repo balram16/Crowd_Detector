@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+# Welcome to Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
@@ -8,6 +8,8 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
    ```bash
    npm install
+   1) In my-app directory 
+   2) In my-app-backend directory
    ```
 
 2. Start the app
@@ -30,6 +32,7 @@ You can start developing by editing the files inside the **app** directory. This
 When you're ready, run:
 
 ```bash
+
 npm run reset-project
 ```
 
