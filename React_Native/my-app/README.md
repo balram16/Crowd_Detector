@@ -15,7 +15,11 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 2. Start the app
 
    ```bash
+    1)In my-app dirctory
     npx expo start
+
+    2)In my-app-backend
+    node server.js
    ```
 
 In the output, you'll find options to open the app in a
